@@ -1,0 +1,15 @@
+{
+	"Token": "",
+	"Prefix": ">",
+
+	"Channel-Names": ["nuked xd"], 
+	"Server-Names": ["nuked xd"],
+	"Role-Names": ["fucked"],
+	"Reason": ["nuked"],
+
+	"Spam": true,
+
+	"Webhook-Names": ["nuked"],
+	"Spam-Messages": ["nuked"],
+	"Spam-Amount": 10000
+}
